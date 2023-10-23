@@ -9,7 +9,11 @@ const routes: Routes = [
     component: HomeComponent,
   },
   {
-    path: 'content',
+    path: 'noticias',
+    component: ContentComponent,
+  },
+  {
+    path: 'sobre',
     component: ContentComponent,
   },
 ];

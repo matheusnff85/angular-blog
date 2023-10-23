@@ -5,4 +5,11 @@ import { Component } from '@angular/core';
   templateUrl: './navbar.component.html',
   styleUrls: ['./navbar.component.css'],
 })
-export class NavbarComponent {}
+export class NavbarComponent {
+  currentPage: string =
+    window.location.href.split('/')[3] === ''
+      ? 'home'
+      : window.location.href.split('/')[3];
+
+  navbarButtons: any[] = [null, 'noticias', 'sobre'];
+}
