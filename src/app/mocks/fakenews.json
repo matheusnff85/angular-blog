@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "newsTitle": "Marvel's Spider-Man 2",
+    "newsDescription": "Lider em vendas na Playstation Store, Marvel's Spider-Man 2 é um sucesso.",
+    "newsImageUrl": "https://sm.ign.com/ign_pt/screenshot/default/psa-the-spider-man-2-spoilers-have-arrived-ft5d_cnqc.jpg"
+  },
+  {
+    "id": 2,
+    "newsTitle": "Worlds 2023 - Gods",
+    "newsDescription": "Atirador coreano Deft é protaginista no clipe de nova música tema do mundial 2023 de league of legends.",
+    "newsImageUrl": "https://images.contentstack.io/v3/assets/bltad9188aa9a70543a/blt200d6cae5d02deb6/6509cc99b556bd5b16d3b3a5/GODS-coverphoto.jpg?width=3200&height=1800"
+  },
+  {
+    "id": 3,
+    "newsTitle": "The Witcher 4 - Polaris",
+    "newsDescription": "Ciri é a nova protagonista do futuro lançamento da CD Project, The Witcher 4 Polaris.",
+    "newsImageUrl": "https://images.4gamers.be/game-primary/2021/03/10/large/the-witcher-3-wild-hunt-PC-PS4-Xbox%20One--5b99.jpg"
+  },
+  {
+    "id": 4,
+    "newsTitle": "Mortal Kombat 1",
+    "newsDescription": "Novos personagens chegam ao game, entre eles: Capitão Pátria, Pacificador e Omniman.",
+    "newsImageUrl": "https://cdn-mk1.mortalkombat.com/media/kombat-pack.jpg"
+  },
+  {
+    "id": 5,
+    "newsTitle": "Grand Theft Auto VI",
+    "newsDescription": "GTA 6 Tem data de lançamento marcada para novembro de 2024 e já conta com DLC juntamente com o lançamento do game.",
+    "newsImageUrl": "https://t2.tudocdn.net/635857"
+  },
+  {
+    "id": 6,
+    "newsTitle": "Cyberpunk 2077 - Phantom Liberty",
+    "newsDescription": "Nova DLC Phantom Liberty para Cyberpunk 2077 é lançada e já está disponível em todas as plataformas pelo valor de 149,99 R$, nova DLC gera mais 50 Horas de gameplay ao jogo contando com várias tramas, enigmas e novos puzzles.",
+    "newsImageUrl": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/CP2077_EP1_PhL_ESG_product_landscape_image_2560x1440_EN_2560x1440-4436283026fe6c7769eccf77ad60d26c"
+  }
+]

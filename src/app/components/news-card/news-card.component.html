@@ -1,0 +1,23 @@
+<div class="col-sm-4" *ngFor="let new of newsData">
+  <a href="/noticias/{{ new.id }}">
+    <div class="card">
+      <div class="image">
+        <img src="{{ new.newsImageUrl }}" />
+      </div>
+      <div class="card-inner">
+        <div class="header fw-bold">
+          <h2>{{ new.newsTitle }}</h2>
+        </div>
+        <div class="content">
+          <p>
+            {{
+              new.newsDescription.length > 150
+                ? resumeDescription(new.newsDescription)
+                : new.newsDescription
+            }}
+          </p>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
