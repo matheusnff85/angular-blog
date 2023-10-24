@@ -10,10 +10,14 @@ const routes: Routes = [
   },
   {
     path: 'noticias',
-    component: ContentComponent,
+    component: HomeComponent,
   },
   {
     path: 'sobre',
+    component: HomeComponent,
+  },
+  {
+    path: 'noticias/:id',
     component: ContentComponent,
   },
 ];
